@@ -11,6 +11,7 @@ process within the information security market.
 
 ## 🔥 Contact me
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rafael-rom%C3%A3o/)
+<br>
 If you want to talk to me, this is the only place so far where you can talk to me.
 
 
@@ -25,7 +26,7 @@ Here I share with you my progress in Rust studies.
 Here I share with you all the rooms that I solved on different CTF platforms.
 
 - [Room - THM](https://wait.com/) - Wait for my first post.
-- 
+
 ## 📌 Bug Bounty Reports
 
 Here I share with you all reports I made.
