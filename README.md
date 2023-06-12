@@ -10,9 +10,9 @@ process within the information security market.
 - Projects
 
 ## 🔥 Contact me
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rafael-rom%C3%A3o/)
-<br>
 If you want to talk to me, this is the only place so far where you can talk to me.
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rafael-rom%C3%A3o/)
 
 
 ## 📌 Rust Studies
