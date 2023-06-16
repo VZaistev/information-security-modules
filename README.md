@@ -25,7 +25,7 @@ Here I share with you my progress in Rust studies.
 
 Here I share with you all the rooms that I solved on different CTF platforms.
 
-- [TryHackMe](https://vasilizaistev.medium.com/tryhackme-easy-room-overlayfs-cve-2021-3493-990c135f4f52) - Easy Room OverlayFS [CVE-2021–3493].
+- [TryHackMe](https://medium.com/@vasilizaistev/tryhackme-easy-room-overlayfs-cve-2021-3493-990c135f4f52) - Easy Room OverlayFS [CVE-2021–3493].
 
 ## 📌 Bug Bounty Reports
 
