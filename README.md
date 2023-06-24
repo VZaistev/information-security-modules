@@ -44,4 +44,4 @@ Here I share with you all the CVEs I found.
 
 Here I share with you all the projects I've done.
 
-- [Project Name](https://wait.com/) - Wait for my first post.
+- [lps2pivot](https://github.com/n1njasec/lps2pivot/) - A simple port scan done in python.
